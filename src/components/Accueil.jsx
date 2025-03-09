@@ -37,6 +37,13 @@ import { FiMenu } from "react-icons/fi";
 
 
 
+const stylo_url ="https://res.cloudinary.com/dbxd1bibc/image/upload/v1741492846/stylo_tfaeik.png"
+
+const ordinateur_url = "https://res.cloudinary.com/dbxd1bibc/image/upload/v1741492827/ordi_kp67a6.png"
+
+const casque_url ="https://res.cloudinary.com/dbxd1bibc/image/upload/v1741492751/casque_hn5nsu.png"
+
+
 
 
 async function set_db_image(path,data){
